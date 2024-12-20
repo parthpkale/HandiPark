@@ -34,13 +34,4 @@ Illegal and inaccessible handicapped parking is a widespread issue, affecting th
 ## Installation and Setup  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/yourusername/HandiPark.git  
-
----
-
-## Contact
-For any questions, suggestions, or feedback, feel free to reach out:
-
-Email: realstephendong@gmail.com
-LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/stephen-dong/)
-- Let's make parking inclusive and accessible for all with HandiPark!
+   git clone https://github.com/yourusername/HandiPark.git
