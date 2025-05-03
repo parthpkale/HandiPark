@@ -32,6 +32,7 @@ Illegal and inaccessible handicapped parking is a widespread issue, affecting th
 ---
 
 ## Installation and Setup  
-1. Clone this repository:  
+1. Clone this repository:
+   
    ```bash  
    git clone https://github.com/yourusername/HandiPark.git
